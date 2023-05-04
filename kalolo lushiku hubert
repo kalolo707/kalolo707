@@ -1,0 +1,45 @@
+= 5
+#declaration de variable type entier
+nbr2 = 6
+#declaration de variable type reel
+print(nbr1+nbr2)
+print(type(nbr1))
+#addition de nombre
+nbr3 = 5.5 #declaration de variable type float
+nbr4 = 6.1
+somme = nbr3+nbr4
+print(somme)
+#declaration de variable type chaine de caractere(string)
+nom = "hubrat"
+print (nom)
+nbr1 imput ("entre nbr1")
+nbr2 int ("nbr2")
+somme (nbr1+nbr2)
+print (somme)
+nbr1 = imput("entre nbr1")
+nbr1 int (nbr1)
+nbr2 imput("entre nbr2")
+nbr2 int(nbr2)
+somme = nbr1+nbr2
+print(f "la somme de deux nombre{ somme}")
+prenom= input("entrer votre prenom")
+nom= input("entrer votre nom")
+age=int(input("entrer votre age"))
+print(f"bonjour{prenom} {nom} {age}")
+if age<18: 
+    print(f"bonjour{prenom} {nom} {age}ans, tu es mineur")
+else:
+    print(f"bonjour{prenom} {nom} {age} ans tu es majeur")
+else if age >= 18 and age < 50:
+    else:
+     print(f"bonjour{prenom} {nom} {age} ans tu es mineur")  
+  else   if age <18 and  >=10 
+     print(f"bonjour{prenom} {nom} {age} ans tu es enfant")
+     else: 
+    print(f"bonjour{prenom} {nom} {age} vous n'avez pas d'age" ) 
+    if else age <  
+list_identite =["hubert","kalolo",16] #declaration de liste
+print(list_identite)
+dic-ville{"hk":["katanga","kolwezi"]}
+print(dic-ville.values())
+print(dic-ville.keys()
